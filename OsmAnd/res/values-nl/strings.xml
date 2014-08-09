@@ -16,25 +16,25 @@
   <string name="map_widget_transparent">Transparante skin</string>
   
   
-  <string name="gps_wakeup_interval">GPS activatie interval: %s</string>
+  <string name="gps_wakeup_interval">GPS-activatie-interval: %s</string>
   <string name="int_continuosly">continu</string>
   <string name="vector_maps_may_display_faster_on_some_devices">Vectorkaarten worden vaak sneller weergegeven. Werkt niet op sommige apparaten.</string>
   
   <string name="play_commands_of_currently_selected_voice">Luister naar de instructies van de gekozen stem</string>
-  <string name="debugging_and_development">OsmAnd fout-opsporing en ontwikkeling</string>
+  <string name="debugging_and_development">OsmAndfoutopsporing en -ontwikkeling</string>
   <string name="native_rendering">Interne kaartgeneratie</string>
   
-  <string name="test_voice_prompts">Test stem-instructies</string>
+  <string name="test_voice_prompts">Test steminstructies</string>
   <string name="switch_to_raster_map_to_see">Geen offline vectorkaart aanwezig voor deze locatie. Je kan deze downloaden via Instellingen (Kaartbeheer), of overschakelen naar online kaarten; activeer hiervoor de "online maps" plugin.</string>
   <string name="tip_recent_changes_0_7_2_t">Wijzigingen in 0.7.2:
 	\n\t- Interne kaartgeneratie op alle apparaten
-	\n\t- Offline interessepunt-bewerking
+	\n\t- Offline interessepuntbewerking
 	\n\t- Toegankelijkheidsopties
 	\n\t- Veel bugs opgelost
 	</string>
-  <string name="send_files_to_osm">GPX-bestanden naar openstreetmap sturen?</string>
+  <string name="send_files_to_osm">GPX-bestanden naar OpenStreetMap sturen?</string>
   <string name="gpx_visibility_txt">Zichtbaarheid</string>
-  <string name="gpx_tags_txt">Tags</string>
+  <string name="gpx_tags_txt">Labels</string>
   <string name="gpx_description_txt">Beschrijving</string>
   <string name="validate_gpx_upload_name_pwd">Geef je OSM-gebruikersnaam en -wachtwoord voor het uploaden van GPX-bestanden.</string>
   <string name="default_buttons_support">Ondersteuning</string>
@@ -45,7 +45,7 @@
   <string name="back_to_location">Terug naar locatie</string>
   <string name="help">Help</string>
   <string name="show_details">Toon details</string>
-  <string name="accessibility_extensions_descr">Toegankelijkheidsmodules voor oude Android versies</string>
+  <string name="accessibility_extensions_descr">Toegankelijkheidsmodules voor oude Androidversies</string>
   <string name="accessibility_extensions">Toegankelijkheidsmodules</string>
   <string name="accessibility_mode">Toegankelijkheidsmodus</string>
   <string name="accessibility_mode_descr">Zet toegankelijkheidsmodus aan</string>
@@ -72,13 +72,13 @@
   <string name="west_north_west">westnoordwest</string>
   <string name="north_west">noordwest</string>
   <string name="front">Voorkant</string>
-  <string name="front_right">Rechts voor</string>
+  <string name="front_right">Rechtsvoor</string>
   <string name="right">Rechts</string>
-  <string name="back_right">Rechts achter</string>
+  <string name="back_right">Rechtsachter</string>
   <string name="back">Achter</string>
-  <string name="back_left">Links achter</string>
+  <string name="back_left">Linksachter</string>
   <string name="left">Links</string>
-  <string name="front_left">Links voor</string>
+  <string name="front_left">Linksvoor</string>
   <string name="oclock">uur</string>
   <string name="towards">richting</string>
   <string name="accuracy">Nauwkeurigheid</string>
@@ -86,7 +86,7 @@
   <string name="no_info">Geen info</string>
   <string name="direction_style_sidewise">Opzij (8 sectoren)</string>
   <string name="direction_style_clockwise">Met de klok (12 sectoren)</string>
-  <string name="settings_direction_style">Richting stijl</string>
+  <string name="settings_direction_style">Richtingstijl</string>
   <string name="settings_direction_style_descr">Kies stijl van richtingsaanduidingen tijdens het verplaatsen</string>
   <string name="auto_announce_on">Start automatische aankondigingen</string>
   <string name="auto_announce_off">Stop automatische aankondigingen</string>
@@ -101,7 +101,7 @@
   <string name="accessibility_preferences">Toegankelijkheid</string>
   <string name="rendering_out_of_memory">Niet genoeg werkgeheugen voor weergave van het geselecteerde gebied</string>
   <string name="use_fluorescent_overlays">Fluorescerende overlays</string>
-  <string name="use_fluorescent_overlays_descr">Gebruik fluorescerende kleuren voor de weergave van tracks and routes</string>
+  <string name="use_fluorescent_overlays_descr">Gebruik fluorescerende kleuren voor de weergave van tracks en routes</string>
   <string name="offline_edition">Offline bewerking</string>
   <string name="offline_edition_descr">Gebruik altijd offline bewerking</string>
   <string name="tip_recent_changes_0_7_1_t">Wijzigingen in 0.7.1:
@@ -109,20 +109,20 @@
 		\n\t- Online tracking-optie - zend coördinaten naar webservice (lees voor het opzetten van je eigen webservice de HowTo-artikelen)
 		\n\t- Toon eerder opgenomen tracks op de kaart
 		\n\t- Richtingdetectie: \'Keer terug\' wordt weergegeven bij een koers in de tegengestelde richting of na het missen van een afslag
-		\n\t- Nieuwe stem-instructie \'Route opnieuw berekend\'
+		\n\t- Nieuwe steminstructie \'Route opnieuw berekend\'
 		\n\t- Optische aanduiding van een afslag binnen 100m door een richtingpijl met veranderende kleur
 		\n\t- Weergave van actuele status van gedeactiveerde kaarten nu op het downloadscherm in donkergroen en donkerblauw
 		\n\t- Andere wijzigingen
 	</string>
   <string name="update_poi_does_not_change_indexes">Wijzigingen aan interessepunten hebben geen invloed op de gedownloade kaartbestanden, maar worden opgeslagen in een lokaal bestand.</string>
   <string name="local_openstreetmap_uploading">Uploaden…</string>
-  <string name="local_openstreetmap_were_uploaded">{0} interessepunten/Bugs zijn ge-upload</string>
+  <string name="local_openstreetmap_were_uploaded">{0} interessepunten/Bugs zijn geüpload</string>
   <string name="local_openstreetmap_uploadall">Upload alle</string>
   
   <string name="local_openstreetmap_show">Toon op kaart</string>
   <string name="local_openstreetmap_upload">Upload wijziging naar OSM</string>
   <string name="local_openstreetmap_delete">Wis de wijziging</string>
-  <string name="local_openstreetmap_descr_title">Asynchrone Openstreetmap wijziging:</string>
+  <string name="local_openstreetmap_descr_title">Asynchrone OpenStreetMap wijziging:</string>
   <string name="local_openstreetmap_settings">Bewaarde gegevens voor OSM</string>
   <string name="local_openstreetmap_settings_descr">Beheer interessepunten en bugs die in OsmAnd zijn bewaard</string>
   
@@ -168,9 +168,9 @@
   <string name="general_settings">Algemene instellingen</string>
   <string name="general_settings_descr">Kaartweergave en algemene instellingen</string>
   <string name="global_app_settings">Algemene app instellingen</string>
-  <string name="user_name">OSM gebruikersnaam</string>
+  <string name="user_name">OSM-gebruikersnaam</string>
   <string name="user_name_descr">Nodig voor openstreetmap.org aanmelding</string>
-  <string name="user_password">OSM wachtwoord</string>
+  <string name="user_password">OSM-wachtwoord</string>
   <string name="user_password_descr">Nodig voor openstreetmap.org aanmelding</string>
   <string name="osmand_service">Achtergrondservice</string>
   <string name="osmand_service_descr">Dit is om OsmAnd te gebruiken als het scherm uit is</string>
@@ -181,11 +181,11 @@
 	</string>
   <string name="tip_day_night_mode">Dag/Nacht modus</string>
   
-  <string name="tip_osm_improve">Verbeter openstreetmap gegevens</string>
-  <string name="tip_osm_improve_t">OsmAnd gebruikt kaarten gebaseerd op Openstreetmap.org (OSM)-gegevens en kan – behalve voor kaartweergave en navigatie – gebruikt worden om de kwaliteit van OSM-gegevens te verbeteren. Je kan direct met een paar klikken interessepunten of OSM-foutrapporten uploaden.
+  <string name="tip_osm_improve">Verbeter OpenStreetMap-gegevens</string>
+  <string name="tip_osm_improve_t">OsmAnd gebruikt kaarten gebaseerd op openstreetmap.org (OSM)-gegevens en kan – behalve voor kaartweergave en navigatie – gebruikt worden om de kwaliteit van OSM-gegevens te verbeteren. Je kan direct met een paar klikken interessepunten of OSM-foutrapporten uploaden.
 		\n\nHiervoor moet je eerst je OSM-logingegevens opgeven bij \'Instellingen\' → \'Algemene instellingen\' → \'OSM bewerken\'.
 		\n\nOm een nieuw interessepunt toe te voegen, gebruik de optie \'Creëer interessepunt\' in het kaartcontextmenu. Vervolg met het ingeven van de informatie over het interessepunt en bevestig de wijziging.
-		\n\nFouten in de kaarten kunnen direct worden gerapporteerd via OSM bug, de OSM groep kan het probleem dan sneller oplossen. Om een fout te rapporteren, gebruik de optie \'Open OSM bug\' in het kaartcontextmenu. Geef daar een gedetailleerde beschrijving van het probleem en stuur het op met \'Toevoegen\'.
+		\n\nFouten in de kaarten kunnen direct worden gerapporteerd via OSM-bug, de OSM-groep kan het probleem dan sneller oplossen. Om een fout te rapporteren, gebruik de optie \'Open OSM-bug\' in het kaartcontextmenu. Geef daar een gedetailleerde beschrijving van het probleem en stuur het op met \'Toevoegen\'.
 		\n\nOsmAnd kan je toevoegingen offline bijhouden (zie de instelling hiervoor), maar er is uiteraard een internetverbinding nodig om de bugs en interessepunten te uploaden.
 	</string>
   <string name="download_files_not_enough_space">Er is niet voldoende vrije ruimte %1$s MB te downloaden (vrij: %2$s).</string>
@@ -257,8 +257,8 @@
   <string name="file_with_name_already_exist">Er bestaat al een bestand met dezelfde naam.</string>
   <string name="default_buttons_save">Bewaar</string>
   <string name="menu_save_directions">Bewaar navigatie-aanwijzingen</string>
-  <string name="local_index_upload_gpx_description">Upload GPX-bestanden naar Openstreetmap. Ze worden gebruikt om de kaarten te verbeteren.</string>
-  <string name="local_index_items_uploaded">%1$d of %2$d gegevens succesvol ge-upload.</string>
+  <string name="local_index_upload_gpx_description">Upload GPX-bestanden naar OpenStreetMap. Ze worden gebruikt om de kaarten te verbeteren.</string>
+  <string name="local_index_items_uploaded">%1$d of %2$d gegevens succesvol geüpload.</string>
   <string name="local_index_mi_upload_gpx">Stuur naar OpenStreetMap</string>
   <string name="show_more_map_detail">Toon meer kaartdetails</string>
   <string name="show_more_map_detail_descr">Toon sommige vectorkaartdetails (wegen enz.) al op lager zoomniveau</string>
@@ -271,7 +271,7 @@
   <string name="favourites_edit_dialog_name">Naam</string>
   <string name="favourites_edit_dialog_category">Categorie</string>
   <string name="vector_map_not_needed">Niet nodig</string>
-  <string name="basemap_missing">De basis-wereldkaart (ruwe kaart van de gehele wereld) ontbreekt. Overweeg om deze te downloaden (World_basemap_x.obf) voor een compleet kaartbeeld.</string>
+  <string name="basemap_missing">De basiswereldkaart (ruwe kaart van de gehele wereld) ontbreekt. Overweeg om deze te downloaden (World_basemap_x.obf) voor een compleet kaartbeeld.</string>
   <string name="vector_data_missing">Er staan nog geen offline kaarten op de SD-kaart. Download kaarten om offline te kunnen werken.</string>
   <string name="local_index_gpx_info_show">\n\nLang drukken voor opties</string>
   
@@ -322,9 +322,9 @@
   <string name="installing_new_resources">Installeren nieuwe gegevens…</string>
   <string name="internet_connection_required_for_online_route">Er is een online routeberekening gekozen, maar er is geen verbinding met internet.</string>
   <string name="tts_language_not_supported_title">Taal niet ondersteund</string>
-  <string name="tts_language_not_supported">De gekozen taal is niet ondersteund door de geïnstalleerde Android stemgenerator. Wil je een andere stemgenerator zoeken op de Play-store? Anders wordt de huidige stemgenerator gebruikt.</string>
+  <string name="tts_language_not_supported">De gekozen taal is niet ondersteund door de geïnstalleerde stemgenerator van Android. Wil je een andere stemgenerator zoeken in de Play Store? Anders wordt de huidige stemgenerator gebruikt.</string>
   <string name="tts_missing_language_data_title">Ontbrekende gegevens</string>
-  <string name="tts_missing_language_data">Geen gegevens voor de geselecteerde taal geïnstalleerd. Wil je naar de Play-store gaan om deze te installeren?</string>
+  <string name="tts_missing_language_data">Geen gegevens voor de geselecteerde taal geïnstalleerd. Wil je naar de Play Store gaan om deze te installeren?</string>
   <string name="gpx_option_reverse_route">Keer richting van GPX-route om</string>
   <string name="gpx_option_destination_point">Gebruik huidige bestemming</string>
   <string name="gpx_option_from_start_point">Volg de gehele track</string>
@@ -480,7 +480,7 @@ Kies daarna om er heen te navigeren, op de kaart te tonen, aan een route of de f
   <string name="loading_builds">OsmAnd-versies worden geladen…</string>
   <string name="select_build_to_install">Kies een OsmAnd-versie om te installeren</string>
   <string name="contribution_activity">Installeer versie</string>
-  <string name="gps_status_app_not_found">GPS Status is niet geïnstalleerd. Zoeken op Market?</string>
+  <string name="gps_status_app_not_found">GPS Status is niet geïnstalleerd. Zoeken in Play Store?</string>
   <string name="voice_is_not_available_msg">Stem-begeleiding is niet aanwezig. Ga naar instellingen, kies een pakket stem-gegevens, en download deze.</string>
   <string name="voice_is_not_available_title">Geen stem-begeleiding geselecteerd</string>
   <string name="daynight_mode_day">Dag</string>
@@ -558,7 +558,7 @@ Kies daarna om er heen te navigeren, op de kaart te tonen, aan een route of de f
   <string name="layer_yandex_traffic">Yandex Traffic</string>
   <string name="layer_route">Route</string>
   <string name="layer_favorites">Favorieten</string>
-  <string name="layer_osm_bugs">OSM bugs</string>
+  <string name="layer_osm_bugs">OSM-bugs</string>
   <string name="layer_transport">OV-haltes</string>
   <string name="layer_poi">Interessepunt…</string>
   <string name="layer_map">Kaartbron…</string>
@@ -718,7 +718,7 @@ Kies daarna om er heen te navigeren, op de kaart te tonen, aan een route of de f
   <string name="download_indexes">Download offline gegevens</string>
   <string name="use_online_routing_descr">Gebruik internet voor routeberekening</string>
   <string name="use_online_routing">Gebruik online routeberekening</string>
-  <string name="osm_settings_descr">Instellingen voor Openstreetmap.org (OSM)</string>
+  <string name="osm_settings_descr">Instellingen voor openstreetmap.org (OSM)</string>
   <string name="data_settings_descr">Specificeer taal, download gegevens</string>
   <string name="data_settings">Gegevens</string>
   <string name="map_preferences_descr">Specificeer kaartinstellingen: kaartbron, rotatie, marker positie, scherm-orientation</string>
@@ -851,7 +851,7 @@ Kies daarna om er heen te navigeren, op de kaart te tonen, aan een route of de f
   <string name="poi_dialog_opening_hours">Openingstijd</string>
   <string name="poi_dialog_comment">Commentaar</string>
   <string name="poi_dialog_comment_default">Interessepunt aangepast</string>
-  <string name="poi_dialog_other_tags_message">Alle andere tags blijven bewaard</string>
+  <string name="poi_dialog_other_tags_message">Alle andere labels blijven bewaard</string>
   <string name="default_buttons_commit">Bevestigen</string>
   <string name="default_buttons_reset">Reset</string>
   <string name="filter_current_poiButton">Filter</string>
@@ -869,7 +869,7 @@ Kies daarna om er heen te navigeren, op de kaart te tonen, aan een route of de f
   <string name="confirm_interrupt_download">Wil je het downloaden afbreken?</string>
   <string name="basemap_was_selected_to_download">De basiskaart is nodig voor OsmAnd en is al geselecteerd om te downloaden.</string>
   
-  <string name="map_online_plugin_is_not_installed">Activeer de online kaarten-plugin om andere kaartbronnen te kunnen selecteren</string>
+  <string name="map_online_plugin_is_not_installed">Activeer de online kaartenplugin om andere kaartbronnen te kunnen selecteren</string>
   <string name="map_online_data">Online (raster-) kaarten</string>
   <string name="map_online_data_descr">Gebruik online kaarten (download en bewaar deze op SD-kaart)</string>
   <string name="online_map_settings">Online kaarten</string>
@@ -880,7 +880,7 @@ Kies daarna om er heen te navigeren, op de kaart te tonen, aan een route of de f
   <string name="osmand_background_plugin_description">Toon instellingen om tracking en navigatie tijdens slaapmodus (scherm uit) in te schakelen door periodiek ontwaken van het GPS-toestel.</string>
   <string name="osmand_accessibility_description">Toon speciale toegankelijkheidsopties.</string>
   <string name="extra_settings">Geavanceerde instellingen</string>
-  <string name="osmand_monitoring_description">Toon instellingen om reizen in GPX bestanden vast te leggen, of live, via een webservice, online te bewaren.</string>
+  <string name="osmand_monitoring_description">Toon instellingen om reizen in GPX-bestanden vast te leggen, of live, via een webservice, online te bewaren.</string>
   <string name="osmand_extra_settings_description">Toon geavanceerde kaartinstellingen (zoals meer details tonen) en enkele apparaatspecifieke instellingen.</string>
   <string name="osmand_development_plugin_description">Toon opties voor ontwikkeling en foutopsporing, zoals navigatie met simulatie of het meten van de kaartweergavesnelheid.</string>
   <string name="plugins_screen">Plugin-manager</string>
@@ -915,7 +915,7 @@ Kies daarna om er heen te navigeren, op de kaart te tonen, aan een route of de f
   <string name="favourites_search_desc">Favorieten zoeken</string>
   <string name="history_search_desc">Zoekgeschiedenis</string>
   <string name="asap">z.s.m.</string>
-  <string name="save_route_as_gpx">Sla route op als GPX bestand</string>
+  <string name="save_route_as_gpx">Sla route op als GPX-bestand</string>
   <string name="route_roundabout">Rotonde: neem afslag %1$d en volg</string>
   <string name="route_kl">Links aanhouden en volg</string>
   <string name="route_kr">Rechts aanhouden en volg</string>
@@ -933,7 +933,7 @@ Kies daarna om er heen te navigeren, op de kaart te tonen, aan een route of de f
 	\n\t* Rijstrook-begeleiding
 	\n\t* Informatie over maximumsnelheden, snelheidscamera\'s en verkeersdrempels
 	\n\t* Verbeterde stembegeleiding op snelwegen
-	\n\t* Parkeer-plugin (\"Waar staat mijn auto geparkeerd?\")
+	\n\t* Parkeerplugin (\"Waar staat mijn auto geparkeerd?\")
 	\n\t* Toon/verberg registratiewidget
 	</string>
   <string name="gpxup_public">Openbaar</string>
@@ -1132,11 +1132,11 @@ Kies daarna om er heen te navigeren, op de kaart te tonen, aan een route of de f
 	<string name="intermediate_point">Routepunt %1$s</string>
     <string name="gps_not_available">Schakel GPS in via de instellingen</string>
     <string name="map_widget_show_destination_arrow">Toon richting van de bestemming</string>
-    <string name="enable_plugin_monitoring_services">Activeer de tracking-plugin om de afgelegde weg vast te leggen (GPX-spoor, online tracking)</string>
+    <string name="enable_plugin_monitoring_services">Activeer de trackingplugin om de afgelegde weg vast te leggen (GPX-spoor, online tracking)</string>
     <string name="non_optimal_route_calculation">Bereken mogelijk niet-optimale route voor lange afstanden</string>
     <string name="rendering_attr_roadColors_description">Kies kleurschema voor wegen:</string>
 	<string name="rendering_attr_roadColors_name">Kleurschema voor wegen</string>
-    <string name="zxing_barcode_scanner_not_found">ZXing Barcode Scanner app is niet geïnstalleerd. In Play-store zoeken?</string>
+    <string name="zxing_barcode_scanner_not_found">ZXing Barcode Scanner app is niet geïnstalleerd. In Play Store zoeken?</string>
 	<string name="close_changeset">Sluit changeset</string>
 	<string name="safe_mode_description">Gebruik OsmAnd in veilige modus (gebruikt langzamere Android-code in plaats van native code).</string>
     <string name="safe_mode">Veilige modus</string>
@@ -1162,26 +1162,26 @@ Kies daarna om er heen te navigeren, op de kaart te tonen, aan een route of de f
     
     <string name="map_widget_max_speed">Snelheidslimiet</string>
     <string name="tip_altitude_offset">Hoogtecorrectie</string>
-	<string name="tip_altitude_offset_t">De meeste GPS ontvangers geven hoogtemetingen in het WGS84-systeem. De conversie naar lokale systemen vereist een positie-afhankelijke correctie.
+	<string name="tip_altitude_offset_t">De meeste GPS-ontvangers geven hoogtemetingen in het WGS84-systeem. De conversie naar lokale systemen vereist een positie-afhankelijke correctie.
 		\n\nEen nauwkeuriger benadering voor deze systemen is het EGM96-systeem (geoid).
 		\n\nOsmAnd kan de hoogte ook weergeven in het EGM96-systeem. Download hiervoor de gegevens voor World Altitude Correction (WW15MGH.DAC) via \'Instellingen\' -&gt; \'Kaartbeheer\' (het origineel staat op http://earth-info.nga.mil/GandG/wgs84/gravitymod/egm96/binary/WW15MGH.DAC).
 	</string>
     <string name="monitoring_control_start">GPX</string>
     <string name="rendering_attr_noAdminboundaries_name">Verberg grenzen</string>
 	<string name="rendering_attr_noAdminboundaries_description">Geen weergave van regio- en provinciegrenzen (grensniveaus 5-9)</string>
-	<string name="osmodroid_plugin_old_ver_not_supported">De OsMoDroid-plugin is een oude versie en moet bijgewerkt worden.</string>
-    <string name="osmodroid_plugin_description">OsMoDroid-plugin is een OsmAnd-extensie voor de OsModroid-applicatie voor online trackingfuncties. Informatie over de service is beschikbaar op http://esya.ru.</string>
-    <string name="osmodroid_plugin_name">OsMoDroid-plugin</string>
+	<string name="osmodroid_plugin_old_ver_not_supported">De OsMoDroidplugin is een oude versie en moet bijgewerkt worden.</string>
+    <string name="osmodroid_plugin_description">OsMoDroidplugin is een OsmAnd-extensie voor de OsModroid-applicatie voor online trackingfuncties. Informatie over de service is beschikbaar op http://esya.ru.</string>
+    <string name="osmodroid_plugin_name">OsMoDroidplugin</string>
 	<string name="index_srtm_parts">gedeelten</string>
     <string name="index_srtm_ele">Hoogtelijnen</string>
     <string name="srtm_plugin_description">Maakt het downloaden van offline hoogtelijnen en reliëfinformatie mogelijk (\'Instellingen\' → \'Kaartbeheer\' → \'Download\' → Kies kaarttype).</string>
-    <string name="srtm_plugin_name">Hoogtelijnen-plugin</string>
+    <string name="srtm_plugin_name">Hoogtelijnenplugin</string>
     <string name="download_select_map_types">Andere kaarten</string>
     <string name="download_srtm_maps">Hoogtelijnen</string>
     
 	
-<string name="audionotes_plugin_description">Audio/video-notities maken tijdens de reis</string>
-    <string name="audionotes_plugin_name">Audio/video-notities</string>
+<string name="audionotes_plugin_description">Audio/videonotities maken tijdens de reis</string>
+    <string name="audionotes_plugin_name">Audio/videonotities</string>
     <string name="osmand_srtm_short_description_80_chars">OsmAnd-plugin voor offline hoogtelijnen</string>
     <string name="osmand_srtm_long_description_1000_chars">Met deze plugin kunnen hoogtelijnen worden weergegeven in OsmAnd\'s offline kaarten. De wereldwijde gegevens (van 70 graden noorderbreedte en 70 graden zuiderbreedte) zijn gebaseerd op metingen door SRTM (Shuttle Radar Topography Mission) en ASTER (Advanced Spaceborne Thermal Emission and Reflection Radiometer), een beeldvormend instrument aan boord van de satelliet Terra, het vlaggeschip van NASA\'s Earth Observing System. ASTER is een samenwerkingsverband tussen NASA, het Japanse Ministerie van Economie, Handel en Industrie (METI), en Japan Space Systems (J-spacesystems).</string>
     
@@ -1196,12 +1196,12 @@ Kies daarna om er heen te navigeren, op de kaart te tonen, aan een route of de f
     <string name="recording_open_external_player">Open externe speler</string>
     <string name="recording_delete_confirm">Wil je deze opname verwijderen?</string>
     <string name="tip_recent_changes_1_1_0_t">Wijzigingen in 1.1.0:
-	\n\t* Afstandscalculator-plugin
-	\n\t* Audio/videonotities-plugin
-	\n\t* Hoogtelijnen-plugin
+	\n\t* Afstandscalculatorplugin
+	\n\t* Audio/videonotitiesplugin
+	\n\t* Hoogtelijnenplugin
 	\n\t* Bugs opgelost
 	\n\t* \'Touring view\' kaartstijloptie met meer kaartdetails, nieuwe wegenstijlen, hoger contrast en optie voor Alpine wandelen (SAC schaal)
-	\n\t* EGM96 geoïde hoogtecorrectie voor GPS hoogte-uitlezingen
+	\n\t* EGM96 geoïde hoogtecorrectie voor GPS-hoogte-uitlezingen
     </string>
     <string name="recording_unavailable">niet beschikbaar</string>
     <string name="recording_context_menu_arecord">Maak een audionotitie</string>
@@ -1214,11 +1214,11 @@ Kies daarna om er heen te navigeren, op de kaart te tonen, aan een route of de f
     <string name="recording_default_name">opname</string>
     <string name="av_control_stop">Stop</string>
     <string name="av_control_start">Start</string>
-    <string name="map_widget_av_notes">Audio/video-notities</string>
+    <string name="map_widget_av_notes">Audio/videonotities</string>
     <string name="av_def_action_video">Video opnemen</string>
     <string name="av_def_action_audio">Audio opnemen</string>
     <string name="av_widget_action_descr">Kies standaardactie voor widget</string>
-    <string name="av_widget_action">Standaard widget-actie</string>
+    <string name="av_widget_action">Standaard widgetactie</string>
     <string name="av_video_format_descr">Kies videobestandsformaat</string>
     <string name="av_video_format">Videobestandsformaat</string>
     <string name="av_use_external_recorder_descr">Gebruik de systeemrecorder voor video</string>
@@ -1227,12 +1227,12 @@ Kies daarna om er heen te navigeren, op de kaart te tonen, aan een route of de f
     <string name="av_settings">Audio/video-instellingen </string>
     <string name="recording_error">Fout opgetreden bij opnemen </string>
     <string name="recording_camera_not_available">Camera is niet beschikbaar</string>
-    <string name="srtm_paid_version_msg">Overweeg om de hoogtelijnen-plugin (\"Contour lines\") te kopen in de Play-store om verdere ontwikkeling te ondersteunen.</string>
-    <string name="srtm_paid_version_title">Hoogtelijnen-plugin</string>
+    <string name="srtm_paid_version_msg">Overweeg om de hoogtelijnenplugin (\"Contour lines\") te kopen in de Play Store om verdere ontwikkeling te ondersteunen.</string>
+    <string name="srtm_paid_version_title">Hoogtelijnenplugin</string>
     
     <string name="intermediate_points_change_order">Volgorde wijzigen</string>
-    <string name="dropbox_plugin_description">De Dropbox-plugin kan tracks en audio/video-notities synchroniseren met je Dropbox-account.</string>
-    <string name="dropbox_plugin_name">Dropbox-plugin</string>
+    <string name="dropbox_plugin_description">De Dropboxplugin kan tracks en audio/videonotities synchroniseren met je Dropboxaccount.</string>
+    <string name="dropbox_plugin_name">Dropboxplugin</string>
     <string name="recording_context_menu_show">Toon</string>
     <string name="recording_photo_description">Foto %1$s van %2$s</string>
     <string name="av_def_action_picture">Neem een foto</string>
@@ -1241,16 +1241,16 @@ Kies daarna om er heen te navigeren, op de kaart te tonen, aan een route of de f
     <string name="clear_dest_confirm">Weet je zeker dat je de bestemming (en tussenpunten) wilt wissen?</string>
     <string name="precise_routing_mode_descr">Schakel nauwkeurige routeberekening in om precieze routes te berekenen zonder fouten. Nog beperkt in afstand en langzaam.</string>
     <string name="precise_routing_mode">Nauwkeurige routeberekening (alpha)</string>
-    <string name="local_indexes_cat_av">Audio/video-gegevens</string>
+    <string name="local_indexes_cat_av">Audio/videogegevens</string>
     <string name="dist_control_start">Start</string>
     <string name="support_new_features_descr">Doe een donatie om OsmAnd uit te laten breiden met nieuwe functies</string>
 	<string name="download_hillshade_item">Reliëfschaduw</string>
     <string name="download_hillshade_maps">Reliëfschaduwkaarten</string>
     <string name="tip_recent_changes_1_1_2_t">Veranderingen in 1.1.2:
-	\n\t* Audio/video-plugin verbetering (foto\'s met EXIF-informatie)
-	\n\t* Bruikbaarheid verbeterd en hoogtelijnen-plugin geherstructureerd
-	\n\t* Reliëfschaduwpakketten voor de hoogtelijnen-plugin
-	\n\t* Bugs opgelost (sub-optimale routeberekening)
+	\n\t* Audio/videoplugin verbetering (foto\'s met EXIF-informatie)
+	\n\t* Bruikbaarheid verbeterd en hoogtelijnenplugin geherstructureerd
+	\n\t* Reliëfschaduwpakketten voor de hoogtelijnenplugin
+	\n\t* Bugs opgelost (suboptimale routeberekening)
     </string>
     <string name="av_use_external_camera_descr">Gebruik de systeemapplicatie voor foto\'s</string>
     <string name="av_use_external_camera">Gebruik de camera-applicatie</string>
@@ -1262,9 +1262,9 @@ Kies daarna om er heen te navigeren, op de kaart te tonen, aan een route of de f
 \n
 \nWijzigingen in 1.2:
 	\n\t* Bugs verholpen (verbeteringen in routeberekening, zoeken, AV-opnames, stemaanwijzingen en weergave)
-	\n\t* Eenvoudiger weergeven van reliëf (hoogtelijnen-plugin nodig)
+	\n\t* Eenvoudiger weergeven van reliëf (hoogtelijnenplugin nodig)
 	\n\t* Accepteert maps.google.com lokatie-links
-	\n\t* Nieuwe widget (GPS info)
+	\n\t* Nieuwe widget (GPS-info)
 	\n\t* Ondersteuning van meerdere vensters voor recente Samsung-toestellen
 	\n\t* Kalman-filter voor het kompas
 	\n\t* Ondersteuning voor Pebble-horloge
@@ -1278,7 +1278,7 @@ Kies daarna om er heen te navigeren, op de kaart te tonen, aan een route of de f
     <string name="item_unchecked">niet aangevinkt</string>
     <string name="map_view">Kaart</string>
     <string name="access_arrival_time">Aankomsttijd</string>
-    <string name="map_widget_gps_info">GPS info</string>
+    <string name="map_widget_gps_info">GPS-info</string>
     <string name="layer_hillshade">Reliëfweergave</string>
     <string name="osmand_play_title_30_chars">OsmAnd Kaarten &amp; Navigatie</string>
 	<string name="osmand_extended_description_4000_chars">
@@ -1581,7 +1581,7 @@ Afghanistan, Albanie, Algerije, Andorra, Angola, Anguilla, Antigua en Barbuda, A
 		\n\t* \'High contrast roads\' toont wegen in uitgesproken kleuren voor situaties met veel omgevingslicht
 		\n\t* \'Winter and ski\' toont een (met sneeuw bedekt) winterlandschap en toont wereldwijd skihellingen en liften (wanneer gebruikt met de \'World ski\' kaartdownload)
 	</string>
-    <string name="base_world_map">Basis-wereldkaart</string>
+    <string name="base_world_map">Basiswereldkaart</string>
     <string name="map_magnifier">Kaartvergrootglas</string>
     <string name="route_is_too_long">"De afstand tot de bestemming is meer dan 200 km. De routeberekening kan hierdoor erg lang duren (of zelfs  mislukken). Door tussenliggende routepunten toe te voegen, wordt de routeberekening sneller."</string>
     <string name="auto_zoom_none">Geen automatische zoom</string>
@@ -1591,10 +1591,10 @@ Afghanistan, Albanie, Algerije, Andorra, Angola, Anguilla, Antigua en Barbuda, A
     <string name="default_and">en</string>
     <string name="default_or">of</string>
 	<string name="remember_choice">Onthoud mijn keuze</string>
-    <string name="gps_status_eclipsim">GPS status</string>
+    <string name="gps_status_eclipsim">GPS-status</string>
     <string name="animate_routing_route_not_calculated">Eerst de route laten berekenen alsjeblieft</string>
     <string name="animate_routing_route">Simuleer met de berekende route </string>
-    <string name="animate_routing_gpx">Simuleer met een GPX spoor</string>
+    <string name="animate_routing_gpx">Simuleer met een GPX-spoor</string>
     <string name="osmodroid_refresh">Ververs channels</string>
     <string name="local_osm_changes_delete_all_confirm">%1$d OSM-wijzigingen worden verwijderd. Doorgaan?</string>
     <string name="local_osm_changes_delete_all">Verwijder alle</string>
@@ -1623,7 +1623,7 @@ Afghanistan, Albanie, Algerije, Andorra, Angola, Anguilla, Antigua en Barbuda, A
 \t\n Let op: oude bestanden blijven bestaan.
 \t\n Let op: het is niet meer mogelijk bestanden te delen tussen OsmAnd en Osmand+. </string>
     <string name="application_dir_change_warning2">OsmAnd kan proberen de bestanden naar de nieuwe bestemming te verplaatsen. Wil je dat?</string>
-    <string name="copying_osmand_one_file_descr">Bestand (%s) wordt gekopieerd naar de nieuwe locatie...</string>
+    <string name="copying_osmand_one_file_descr">Bestand (%s) wordt gekopieerd naar de nieuwe locatie…</string>
     <string name="copying_osmand_files_descr">OsmAnd-bestanden worden naar de nieuwe locatie gekopieerd (%s)</string>
     <string name="copying_osmand_files">Kopieer OsmAnd-bestanden</string>
     <string name="calculate_osmand_route_gpx">Bereken de route offline met OsmAnd</string>
@@ -1653,9 +1653,9 @@ Afghanistan, Albanie, Algerije, Andorra, Angola, Anguilla, Antigua en Barbuda, A
     \n\t* BELANGRIJK: kaarten moeten nieuwer zijn dan februari 2014.
 	\n\t* Volledig nieuwe routeberekening (snel en nauwkeurig) - 
     \n\t* Nieuw scherm met route planning (meer intuïtief and krachtiger)
-    \n\t** TIP: GPX route is nu beschikbaar via de route-instellingen knop
+    \n\t** TIP: GPX-route is nu beschikbaar via de route-instellingen knop
     \n\t* Automatisch verbergende knoppen in de navigatie modus
-    \n\t* Bereken offline route naar het eerste punt van een GPX route (\'volg de gehele track\' optie)
+    \n\t* Bereken offline route naar het eerste punt van een GPX-route (\'volg de gehele track\' optie)
 	\n\t* Actieve simulatie in tunnels
 	\n\t* Veel kleine verbeteringen in de interface &amp; bruikbaarheid
 	\n\t* Spraaksnelheid voorkeur
@@ -1719,7 +1719,7 @@ Afghanistan, Albanie, Algerije, Andorra, Angola, Anguilla, Antigua en Barbuda, A
     <string name="localization_pref_title">Regiogebonden</string>
     <string name="interrupt_music_descr">Muziek onderbreken bij aankondigingen</string>
 	<string name="interrupt_music">Muziek onderbreken</string>
-	<string name="share_route_as_gpx">Deel route als GPX bestand</string>
+	<string name="share_route_as_gpx">Deel route als GPX-bestand</string>
 	<string name="share_route_subject">Route gedeeld via OsmAnd</string>
 	<string name="navigation_intent_invalid">ongeldig formaat: %s</string>
 <string name="osmo_settings_uuid">Uniek device-ID</string>
@@ -1761,8 +1761,8 @@ Afghanistan, Albanie, Algerije, Andorra, Angola, Anguilla, Antigua en Barbuda, A
     * Routeberekening tussen punten op een GPX-spoor
     * Kaarten op het downloadscherm zoeken met de plaatselijke naam
     * GPX/KML import (converteer KML naar GPX)
-    * GPX sporen verplaatst naar "Mijn plaatsen"
-    * GPX spoor splitsen en controle van hoogteverschil / snelheid
+    * GPX-sporen verplaatst naar "Mijn plaatsen"
+    * GPX-spoor splitsen en controle van hoogteverschil / snelheid
     * Start navigatie automatisch na vertraging
     </string>
     <string name="use_points_as_intermediates">Bereken route tussen punten</string>
@@ -1794,7 +1794,7 @@ Afghanistan, Albanie, Algerije, Andorra, Angola, Anguilla, Antigua en Barbuda, A
     <string name="osmo_enable_tracker">Verzend mijn posities</string>
     <string name="osmo_control">OsMo snelle toegang</string>
     <string name="local_index_mi_export">Exporteer</string>
-	<string name="import_file_favourites">Bewaren als GPX bestand of importeren in favorieten?</string>
+	<string name="import_file_favourites">Bewaren als GPX-bestand of importeren in favorieten?</string>
 	<string name="import_save">Bewaren</string>
 	<string name="color_red">rood</string>
 	<string name="color_pink">roze</string>
@@ -1830,7 +1830,7 @@ Afghanistan, Albanie, Algerije, Andorra, Angola, Anguilla, Antigua en Barbuda, A
     <string name="my_data_activity">Mijn plaatsen</string>
     <string name="selected_track">Gekozen track</string>
     <string name="my_tracks">Alle tracks</string>
-    <string name="gpx_file_is_empty">Gpx track is leeg</string>
+    <string name="gpx_file_is_empty">GPX-track is leeg</string>
     <string name="gpx_info_subtracks">"Deel tracks: %1$s "</string>
 	<string name="gpx_info_distance">Afstand: %1$s (%2$s punten) </string>
 	<string name="gpx_info_start_time">Starttijd: %1$tF,  %1$tT </string>
@@ -1866,7 +1866,7 @@ Afghanistan, Albanie, Algerije, Andorra, Angola, Anguilla, Antigua en Barbuda, A
     <string name="sort_by_distance">Sorteer op afstand</string>
     <string name="sort_by_name">Sorteer op naam</string>
     <string name="visible_element">Toon op kaart</string>
-    <string name="none_selected_gpx">Geen GPX bestanden geselecteerd. Selecteer de gewenste track door er lang op te drukken.</string>
+    <string name="none_selected_gpx">Geen GPX-bestanden geselecteerd. Selecteer de gewenste track door er lang op te drukken.</string>
     <string name="local_index_unselect_gpx_file">Deselecteer</string>
     <string name="local_index_select_gpx_file">Selecteer om te bekijken</string>
     <string name="route_descr_destination">Route beschrijving</string>
@@ -1905,13 +1905,13 @@ Afghanistan, Albanie, Algerije, Andorra, Angola, Anguilla, Antigua en Barbuda, A
 	<string name="live_monitoring_m">Online tracking (GPX vereist)</string>
     <string name="live_monitoring_start">Start online tracking</string>
 	<string name="live_monitoring_stop">Stop online tracking</string>
-	<string name="gpx_monitoring_start">Start GPX opname</string>
-	<string name="gpx_monitoring_stop">Stop GPX opname</string>
+	<string name="gpx_monitoring_start">Start GPX-opname</string>
+	<string name="gpx_monitoring_stop">Stop GPX-opname</string>
     <string name="gpx_start_new_segment">Start nieuw segment</string>
     <string name="keep_navigation_service">Houden</string>
 	<string name="stop_navigation_service">Stop</string>
 	<string name="enable_sleep_mode">Slaapstand inschakelen</string>
-	<string name="gps_wake_up_timer">GPS ontwaak interval</string>
+	<string name="gps_wake_up_timer">GPS-ontwaakinterval</string>
 	<string name="sleep_mode_stop_dialog">GPS aanlaten?</string>
 	<string name="lang_fa">Perzisch</string>
 	<string name="lang_al">Albanees</string>
@@ -1920,13 +1920,13 @@ Afghanistan, Albanie, Algerije, Andorra, Angola, Anguilla, Antigua en Barbuda, A
 	<string name="lang_sr">Servisch</string>
 	<string name="lang_zh_CN">Vereenvoudigd Chinees</string>
 	<string name="lang_zh_TW">Traditioneel Chinees</string>
-	<string name="rendering_attr_subwayMode_name">Tunnel stand</string>
+	<string name="rendering_attr_subwayMode_name">Tunnelstand</string>
  	<string name="continue_navigation">Navigatie voortzetten</string>
     <string name="pause_navigation">navigatie pauzeren</string>
-	<string name="rendering_attr_alpineHiking_name">Alpine wandel weergave</string>
-    <string name="rendering_attr_alpineHiking_description">Render paden volgens SAC schaal</string>
+	<string name="rendering_attr_alpineHiking_name">Alpine wandelweergave</string>
+    <string name="rendering_attr_alpineHiking_description">Render paden volgens SAC-schaal</string>
     <string name="rendering_attr_osmcTraces_name">Wandelsymbolen laag</string>
-    <string name="rendering_attr_osmcTraces_description">Render paden volgens OSMC sporen</string>
+    <string name="rendering_attr_osmcTraces_description">Render paden volgens OSMC-sporen</string>
     
 	<string name="rendering_attr_coloredBuildings_name">Gekleurde gebouwen</string>
     <string name="osmo_invite">Uitnodiging voor…</string>
@@ -1938,6 +1938,6 @@ Afghanistan, Albanie, Algerije, Andorra, Angola, Anguilla, Antigua en Barbuda, A
     <string name="arrival_distance_factor_at_last">Als bestemming bijna is bereikt</string>
     <string name="hide_all_waypoints">Verwijder alle</string>
 <string name="av_camera_pic_size">Camera Beeldformaat</string>
-	<string name="av_camera_pic_size_descr">Selecteer interne camera beeldformaat</string>
+	<string name="av_camera_pic_size_descr">Selecteer beeldformaat interne camera</string>
     <string name="announce_nearby_favorites">Meld favorieten in de buurt</string>
 </resources>
