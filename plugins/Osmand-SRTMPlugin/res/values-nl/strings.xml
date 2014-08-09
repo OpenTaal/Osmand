@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="default_buttons_no">Nee</string>
+    <string name="default_buttons_yes">Ja</string>
+    <string name="osmand_app_not_found">OsmAnd is niet geïnstalleerd</string>
+    <string name="app_name">OsmAnd Contour Lines</string>
+    <string name="app_label">OsmAnd Contour Lines</string>
+    <string name="parking_plugin_installed">OsmAnd Contour Lines Plugin is geïnstalleerd en geactiveerd in de OsmAnd-instellingen.</string>
+</resources>

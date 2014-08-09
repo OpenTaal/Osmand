@@ -21,7 +21,7 @@
   <string name="vector_maps_may_display_faster_on_some_devices">Vectorkaarten worden vaak sneller weergegeven. Werkt niet op sommige apparaten.</string>
   
   <string name="play_commands_of_currently_selected_voice">Luister naar de instructies van de gekozen stem</string>
-  <string name="debugging_and_development">OsmAndfoutopsporing en -ontwikkeling</string>
+  <string name="debugging_and_development">OsmAnd-foutopsporing en -ontwikkeling</string>
   <string name="native_rendering">Interne kaartgeneratie</string>
   
   <string name="test_voice_prompts">Test steminstructies</string>
@@ -571,7 +571,7 @@ Kies daarna om er heen te navigeren, op de kaart te tonen, aan een route of de f
   <string name="background_service_wait_int">Maximum wachttijd voor positiebepaling</string>
   <string name="service_stop_background_service">Stop achtergrondnavigatie</string>
   <string name="where_am_i">Waar ben ik?</string>
-  <string name="process_navigation_service">OsmAnd navigatieservice</string>
+  <string name="process_navigation_service">OsmAnd-navigatieservice</string>
   <string name="network_provider">Netwerk</string>
   <string name="gps_provider">GPS</string>
   <string name="int_seconds">seconden</string>
@@ -1515,7 +1515,7 @@ Afghanistan, Albanië, Algerije, Andorra, Angola, Anguilla, Antigua en Barbuda, 
     <string name="tip_recent_changes_1_5_t">Wijzigingen in 1.5:
 	\n\t* Gesproken waarschuwingen voor snelheidsbeperkingen en -camera\'s
 	\n\t* Meer mogelijkheden voor gesproken aanwijzingen (straatnamen)
-	\n\t* Kaarticonen voor hogedichtheidschermen
+	\n\t* Kaarticonen voor hoge-dichtheidschermen
 	\n\t* Veel interfacewijzigingen
 	\n\t* Bugs opgelost in afstandsdisplay, GPX-analysator, routepuntenverwerking, planning widget, OSM-uploaden, HTTPS-afhandeling
     </string>
@@ -1605,7 +1605,7 @@ Afghanistan, Albanië, Algerije, Andorra, Angola, Anguilla, Antigua en Barbuda, 
     <string name="app_mode_boat">Boot</string>
     <string name="app_mode_aircraft">Vliegtuig</string>
     <string name="map_widget_map_rendering">Kaartweergave:</string>
-    <string name="app_modes_choose_descr">Kies de profielen die in Osmand zichtbaar zijn</string>
+    <string name="app_modes_choose_descr">Kies de profielen die in OsmAnd zichtbaar zijn</string>
     <string name="app_modes_choose">Toepassingsprofielen</string>
 	<string name="amenity_type_seamark">boei / baken</string>
     <string name="osmodroid_seek">Zoek object</string>
@@ -1621,7 +1621,7 @@ Afghanistan, Albanië, Algerije, Andorra, Angola, Anguilla, Antigua en Barbuda, 
     <string name="app_mode_truck">Vrachtauto</string>
     <string name="android_19_location_disabled">Sinds Android KitKat kunnen kaarten niet meer worden opgeslagen in de huidige map(%s). Wil je deze wijzigen in een toegestane map en de bestanden daar naartoe kopiëren?
 \t\n Let op: oude bestanden blijven bestaan.
-\t\n Let op: het is niet meer mogelijk bestanden te delen tussen OsmAnd en Osmand+. </string>
+\t\n Let op: het is niet meer mogelijk bestanden te delen tussen OsmAnd en OsmAnd+. </string>
     <string name="application_dir_change_warning2">OsmAnd kan proberen de bestanden naar de nieuwe bestemming te verplaatsen. Wil je dat?</string>
     <string name="copying_osmand_one_file_descr">Bestand (%s) wordt gekopieerd naar de nieuwe locatie…</string>
     <string name="copying_osmand_files_descr">OsmAnd-bestanden worden naar de nieuwe locatie gekopieerd (%s)</string>
