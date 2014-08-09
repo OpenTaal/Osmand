@@ -45,7 +45,7 @@
   <string name="back_to_location">Terug naar locatie</string>
   <string name="help">Help</string>
   <string name="show_details">Toon details</string>
-  <string name="accessibility_extensions_descr">Toegankelijkheidsmodules voor oude Androidversies</string>
+  <string name="accessibility_extensions_descr">Toegankelijkheidsmodules voor oude Android-versies</string>
   <string name="accessibility_extensions">Toegankelijkheidsmodules</string>
   <string name="accessibility_mode">Toegankelijkheidsmodus</string>
   <string name="accessibility_mode_descr">Zet toegankelijkheidsmodus aan</string>
@@ -964,9 +964,9 @@ Kies daarna om er heen te navigeren, op de kaart te tonen, aan een route of de f
   <string name="starting_point_too_far">Startpunt te ver van de dichtstbijzijnde weg.</string>
   <string name="shared_location">Gedeelde locatie</string>
   <string name="update_downlod_list">Vernieuw lijst</string>
-  <string name="global_app_allocated_memory_descr">Beschikbaar werkgeheugen %1$s MB (Android limiet %2$s MB, Dalvik %3$s MB).</string>
+  <string name="global_app_allocated_memory_descr">Beschikbaar werkgeheugen %1$s MB (Android-limiet %2$s MB, Dalvik %3$s MB).</string>
   <string name="global_app_allocated_memory">Beschikbaar werkgeheugen</string>
-  <string name="native_app_allocated_memory_descr">Werkgeheugen, gereserveerd door app %1$s MB (Dalvik %2$s MB, overig %3$s MB). Proportioneel werkgeheugen %4$s MB (Androidlimiet %5$s MB, Dalvik %6$s MB).</string>
+  <string name="native_app_allocated_memory_descr">Werkgeheugen, gereserveerd door app %1$s MB (Dalvik %2$s MB, overig %3$s MB). Proportioneel werkgeheugen %4$s MB (Android-limiet %5$s MB, Dalvik %6$s MB).</string>
   <string name="native_app_allocated_memory">Totaal werkgeheugen</string>
   <string name="select_animate_speedup">Kies versnelling van de route-simulatie</string>
   <string name="osmand_parking_hours">Uur</string>
@@ -1265,9 +1265,9 @@ Kies daarna om er heen te navigeren, op de kaart te tonen, aan een route of de f
 	\n\t* Eenvoudiger weergeven van reliëf (hoogtelijnenplugin nodig)
 	\n\t* Accepteert maps.google.com lokatielinks
 	\n\t* Nieuwe widget (GPS-info)
-	\n\t* Ondersteuning van meerdere vensters voor recente Samsungtoestellen
+	\n\t* Ondersteuning van meerdere vensters voor recente Samsung-toestellen
 	\n\t* Kalman-filter voor het kompas
-	\n\t* Ondersteuning voor Pebblehorloge
+	\n\t* Ondersteuning voor Pebble-horloge
 	</string>
     <string name="max_speed_none">geen</string>
     <string name="prefer_motorways">Bij voorkeur snelwegen</string>
@@ -1295,7 +1295,7 @@ Navigatie
 
 Kaart bekijken
 - Toon positie en richting op de kaart
-- Kan de kaart richten naar noorden,  bewegingsrichting of kompasrichting
+- Kan de kaart richten naar noorden, bewegingsrichting of kompasrichting
 - Kan satellietbeelden weergeven (van Bing)
 - Kan overlays weergeven zoals GPX-tracks en extra kaarten met instelbare transparantie
 - Plaatsnamen weergegeven in Engels, lokale of fonetische weergave
@@ -1346,7 +1346,7 @@ Indicatie van kaartkwaliteit en -compleetheid:
 - Antarctica: *
 
 Lijst van ondersteunde landen (praktisch de hele wereld!):
-Afghanistan, Albanië, Algerije, Andorra, Angola, Anguilla, Antigua en Barbuda, Argentinië, Armenië, Aruba, Australië, Azerbaijan, Bahamas, Bahrein, Bangladesh, Barbados, Belarus, België, Belize, Benin, Bermuda, Bhutan, Bolivia, Bonaire, Bosnië en Herzegovina, Botswana, Brazilië, Britse Maagdeneilanden, Brunei, Bulgarije, Burkina Faso, Burundi, Cambodja, Canada, Central African Republic, Chile, China, Colombia, Comoros, Congo, Costa Rica, Ivoorkust, Cuba, Curaçao, Cyprus, Denmark, Djibouti, Dominica, Dominican Republic, Duitsland, Ecuador, Egypte, El Salvador, Equatoriaal Guinea, Eritrea, Estland, Ethiopië, Fiji, Finland, Frankrijk, Frans Guiana, Frans Polynesië, Gabon, Gambia, Georgia, Ghana, Gibraltar, Grenada, Griekenland, Groenland, Guadeloupe, Guam, Guatemala, Guernsey, Guinea, Guinee-Bissau, Guyana, Haiti, Vaticaanstad, Honduras, Hong Kong, Hongarije, Ierland, IJsland, India, Indonesië, Iran, Irak,  Isle of Man, Israel, Italie, Jamaica, Japan, Jemen, Jersey, Jordanië, Kaapverdië, Kameroen, Kazakhstan, Kenya, Kiribati, Koeweit, Kroatie, Noord-Korea en Zuid-Korea, Kyrgyzstan, Laos, Libanon, Lesotho, Letland, Liberia, Libië, Liechtenstein, Litouwen, Luxemburg, Macao, Macedonie, Madagascar, Malawi, Maleisië, Malediven, Mali, Malta, Marokko, Martinique, Mauritanië, Mauritius, Mayotte, Mexico, Micronesië, Moldavië, Monaco, Mongolië, Montenegro, Montserrat, Mozambique, Myanmar, Namibië, Nauru,  Nederland, Nederlandse Antillen, Nepal, Nicaragua, Nieuw-Caledoniae, Nieuw-Zeeland, Niger, Nigeria, Noorwegen, Oeganda, Oman, Oostenrijk, Pakistan, Palau, Palestinian Territory, Panama, Papua New Guinea, Paraguay, Peru, Philippijnen, Polen, Portugal, Puerto Rico, Qatar, Romenie, Rusland, Rwanda, Saint Barthelemy, Saint Helena, Saint Kitts and Nevis, Saint Lucia, Saint Martin, Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Samoa, San Marino, Saudi-Arabië, Senegal, Servie, Seychellen, Sierra Leone, Singapore, Slovakije, Slovenie, Somalië, Spanje, Sri Lanka, Soedan, Suriname, Swaziland, Syrie, Taiwan, Tajikistan, Tanzania, Thailand, Timor-Leste, Tsjechië, Togo, Tokelau, Tonga, Trinidad and Tobago, Tsjaad, Tunesië, Turkije, Turkmenistan, Tuvalu, Ukraine, United Arab Emirates, United Kingdom (UK), United States of America (USA), Uruguay, Uzbekistan, Vanuatu, Venezuela, Vietnam, Wallis en Futuna, Western Sahara, Zambia, Zimbabwe, Zuid-Afrika, Zuid-Georgia, Zuid-Soedan, Zweden, Zwitserland.
+Afghanistan, Albanië, Algerije, Andorra, Angola, Anguilla, Antigua en Barbuda, Argentinië, Armenië, Aruba, Australië, Azerbaijan, Bahama\'s, Bahrein, Bangladesh, Barbados, Belarus, België, Belize, Benin, Bermuda, Bhutan, Bolivia, Bonaire, Bosnië en Herzegovina, Botswana, Brazilië, Britse Maagdeneilanden, Brunei, Bulgarije, Burkina Faso, Burundi, Cambodja, Canada, Centraal Afrikaanse Republiek, Chili, China, Colombia, Comoros, Congo, Costa Rica, Ivoorkust, Cuba, Curaçao, Cyprus, Denemarken, Djibouti, Dominica, Dominicaanse Republiek, Duitsland, Ecuador, Egypte, El Salvador, Equatoriaal Guinea, Eritrea, Estland, Ethiopië, Fiji, Finland, Frankrijk, Frans Guiana, Frans Polynesië, Gabon, Gambia, Georgia, Ghana, Gibraltar, Grenada, Griekenland, Groenland, Guadeloupe, Guam, Guatemala, Guernsey, Guinea, Guinee-Bissau, Guyana, Haïti, Vaticaanstad, Honduras, Hong Kong, Hongarije, Ierland, IJsland, India, Indonesië, Iran, Irak, Isle of Man, Israël, Italië, Jamaica, Japan, Jemen, Jersey, Jordanië, Kaapverdië, Kameroen, Kazachstan, Kenia, Kiribati, Koeweit, Kroatië, Noord-Korea en Zuid-Korea, Kyrgyzstan, Laos, Libanon, Lesotho, Letland, Liberia, Libië, Liechtenstein, Litouwen, Luxemburg, Macau, Macedonië, Madagaskar, Malawi, Maleisië, Malediven, Mali, Malta, Marokko, Martinique, Mauritanië, Mauritius, Mayotte, Mexico, Micronesië, Moldavië, Monaco, Mongolië, Montenegro, Montserrat, Mozambique, Myanmar, Namibië, Nauru, Nederland, Nederlandse Antillen, Nepal, Nicaragua, Nieuw-Caledoniae, Nieuw-Zeeland, Niger, Nigeria, Noorwegen, Oeganda, Oman, Oostenrijk, Pakistan, Palau, Palestinian Territory, Panama, Papua Nieuw Guinea, Paraguay, Peru, Filipijnen, Polen, Portugal, Puerto Rico, Qatar, Domenie, Rusland, Rwanda, Saint Barthelemy, Saint Helena, Saint Kitts en Nevis, Saint Lucia, Saint Martin, Saint Pierre en Miquelon, Saint Vincent en de Grenadines, Samoa, San Marino, Saudi-Arabië, Senegal, Servië, Seychellen, Sierra Leone, Singapore, Slovakije, Slovenië, Somalië, Spanje, Sri Lanka, Soedan, Suriname, Swaziland, Syrië, Taiwan, Tajikistan, Tanzania, Thailand, Timor-Leste, Tsjechië, Togo, Tokelau, Tonga, Trinidad en Tobago, Tsjaad, Tunesië, Turkije, Turkmenistan, Tuvalu, Oekraïne, Verenigde Arabische Emiraten, Verenigd Koninkrijk (UK), Verenigde Staten (VS), Uruguay, Oezbekistan, Vanuatu, Venezuela, Vietnam, Wallis en Futuna, Western Sahara, Zambia, Zimbabwe, Zuid-Afrika, Zuid-Georgia, Zuid-Soedan, Zweden, Zwitserland.
 	</string>
 	<string name="osmand_plus_play_title_30_chars">OsmAnd+ Kaarten &amp; Navigatie</string>
 	<string name="osmand_plus_extended_description_4000_chars">
@@ -1365,7 +1365,7 @@ Navigatie
 
 Kaart bekijken
 - Toon positie en richting op de kaart
-- Kan de kaart richten naar noorden,  bewegingsrichting of kompasrichting
+- Kan de kaart richten naar noorden, bewegingsrichting of kompasrichting
 - Kan satellietbeelden weergeven (van Bing)
 - Kan overlays weergeven zoals GPX-tracks en extra kaarten met instelbare transparantie
 - Plaatsnamen weergegeven in Engels, lokale of fonetische weergave
@@ -1416,7 +1416,7 @@ Indicatie van kaartkwaliteit en -compleetheid:
 - Antarctica: *
 
 Lijst van ondersteunde landen (praktisch de hele wereld!):
-Afghanistan, Albanie, Algerije, Andorra, Angola, Anguilla, Antigua en Barbuda, Argentinie, Armenie, Aruba, Australie, Azerbaijan, Bahamas, Bahrein, Bangladesh, Barbados, Belarus, Belgie, Belize, Benin, Bermuda, Bhutan, Bolivia, Bonaire, Bosnie en Herzegovina, Botswana, Brazilie, Britse Maagdeneilanden, Brunei, Bulgarije, Burkina Faso, Burundi, Cambodia, Canada, Central African Republic, Chile, China, Colombia, Comoros, Congo, Costa Rica, Ivoorkust, Cuba, Curaçao, Cyprus,  Denmark, Djibouti, Dominica, Dominican Republic, Duitsland, Ecuador, Egypte, El Salvador, Equatoriaal Guinea, Eritrea, Estland, Ethiopie, Fiji, Finland, Frankrijk, Frans Guiana, Frans Polynesia, Gabon, Gambia, Georgia, Ghana, Gibraltar, Grenada, Griekenland, Groenland, Guadeloupe, Guam, Guatemala, Guernsey, Guinea, Guinee-Bissau, Guyana, Haiti, Vaticaanstad, Honduras, Hong Kong, Hongarije, Ierland, IJsland, India, Indonesie, Iran, Irak,  Isle of Man, Israel, Italie, Jamaica, Japan, Jemen, Jersey, Jordanie, Kaapverdie, Kameroen, Kazakhstan, Kenya, Kiribati, Koeweit, Kroatie, Noord-Korea en Zuid-Korea, Kyrgyzstan, Laos, Lebanon, Lesotho, Letland, Liberia, Libie, Liechtenstein, Litouwen, Luxemburg, Macao, Macedonie, Madagascar, Malawi, Maleisie, Malediven, Mali, Malta, Marokko, Martinique, Mauritanie, Mauritius, Mayotte, Mexico, Micronesie, Moldavie, Monaco, Mongolie, Montenegro, Montserrat, Mozambique, Myanmar, Namibia, Nauru,  Nederland, Nederlandse Antillen, Nepal, Nicaragua, Nieuw-Caledoniae, Nieuw-Zeeland, Niger, Nigeria, Noorwegen, Oeganda, Oman, Oostenrijk, Pakistan, Palau, Palestinian Territory, Panama, Papua New Guinea, Paraguay, Peru, Philippijnen, Polen, Portugal, Puerto Rico, Qatar, Romenie, Rusland, Rwanda, Saint Barthelemy, Saint Helena, Saint Kitts and Nevis, Saint Lucia, Saint Martin, Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Samoa, San Marino, Saudi-Arabie, Senegal, Servie, Seychellen, Sierra Leone, Singapore, Slovakije, Slovenie, Somalie, Spanje, Sri Lanka, Soedan, Suriname, Swaziland, Syrie, Taiwan, Tajikistan, Tanzania, Thailand, Timor-Leste, Tjechie, Togo, Tokelau, Tonga, Trinidad and Tobago, Tsjaad, Tunesie, Turkije, Turkmenistan, Tuvalu, Ukraine, United Arab Emirates, United Kingdom (UK), United States of America (USA), Uruguay, Uzbekistan, Vanuatu, Venezuela, Vietnam, Wallis and Futuna, Western Sahara, Zambia, Zimbabwe, Zuid-Afrika, Zuid-Georgia, Zuid-Soedan, Zweden, Zwitserland.
+Afghanistan, Albanië, Algerije, Andorra, Angola, Anguilla, Antigua en Barbuda, Argentinië, Armenië, Aruba, Australië, Azerbaijan, Bahama\'s, Bahrein, Bangladesh, Barbados, Belarus, België, Belize, Benin, Bermuda, Bhutan, Bolivia, Bonaire, Bosnië en Herzegovina, Botswana, Brazilië, Britse Maagdeneilanden, Brunei, Bulgarije, Burkina Faso, Burundi, Cambodja, Canada, Centraal Afrikaanse Republiek, Chili, China, Colombia, Comoros, Congo, Costa Rica, Ivoorkust, Cuba, Curaçao, Cyprus, Denemarken, Djibouti, Dominica, Dominicaanse Republiek, Duitsland, Ecuador, Egypte, El Salvador, Equatoriaal Guinea, Eritrea, Estland, Ethiopië, Fiji, Finland, Frankrijk, Frans Guiana, Frans Polynesië, Gabon, Gambia, Georgia, Ghana, Gibraltar, Grenada, Griekenland, Groenland, Guadeloupe, Guam, Guatemala, Guernsey, Guinea, Guinee-Bissau, Guyana, Haïti, Vaticaanstad, Honduras, Hong Kong, Hongarije, Ierland, IJsland, India, Indonesië, Iran, Irak, Isle of Man, Israël, Italië, Jamaica, Japan, Jemen, Jersey, Jordanië, Kaapverdië, Kameroen, Kazakhstan, Kenia, Kiribati, Koeweit, Kroatië, Noord-Korea en Zuid-Korea, Kyrgyzstan, Laos, Libanon, Lesotho, Letland, Liberia, Libië, Liechtenstein, Litouwen, Luxemburg, Macau, Macedonië, Madagaskar, Malawi, Maleisië, Malediven, Mali, Malta, Marokko, Martinique, Mauritanië, Mauritius, Mayotte, Mexico, Micronesië, Moldavië, Monaco, Mongolië, Montenegro, Montserrat, Mozambique, Myanmar, Namibië, Nauru, Nederland, Nederlandse Antillen, Nepal, Nicaragua, Nieuw-Caledoniae, Nieuw-Zeeland, Niger, Nigeria, Noorwegen, Oeganda, Oman, Oostenrijk, Pakistan, Palau, Palestinian Territory, Panama, Papua New Guinea, Paraguay, Peru, Filipijnen, Polen, Portugal, Puerto Rico, Qatar, Romenië, Rusland, Rwanda, Saint Barthelemy, Saint Helena, Saint Kitts en Nevis, Saint Lucia, Saint Martin, Saint Pierre en Miquelon, Saint Vincent en de Grenadines, Samoa, San Marino, Saudi-Arabië, Senegal, Servië, Seychellen, Sierra Leone, Singapore, Slovakije, Slovenië, Somalië, Spanje, Sri Lanka, Soedan, Suriname, Swaziland, Syrië, Taiwan, Tajikistan, Tanzania, Thailand, Timor-Leste, Tsjechië, Togo, Tokelau, Tonga, Trinidad en Tobago, Tsjaad, Tunesië, Turkije, Turkmenistan, Tuvalu, Oekraïne, Verenigde Arab Emiraten, Verenigd Koninkrijk (UK), Verenigde Staten (VS), Uruguay, Oezbekistan, Vanuatu, Venezuela, Vietnam, Wallis en Futuna, Western Sahara, Zambia, Zimbabwe, Zuid-Afrika, Zuid-Georgia, Zuid-Soedan, Zweden, Zwitserland.
 	</string>
 	<string name="tip_recent_changes_1_1_4_t">Wijzigingen in 1.1.4:
 	\n\t* Nieuw ontwerp gebruikersinterface
@@ -1533,7 +1533,7 @@ Afghanistan, Albanie, Algerije, Andorra, Angola, Anguilla, Antigua en Barbuda, A
     <string name="speak_title">Aankondigen…</string>
 	<string name="speak_descr">Aankondigen van straatnamen, verkeerswaarschuwingen (verplicht stoppen, drempels), snelheidscamera\'s of snelheidsbeperkingen</string>
 	<string name="speak_street_names">Straatnamen aankondigen (TTS)</string>
-    <string name="osmodroid_mode_on">OsMoDroid stoppen</string>    
+    <string name="osmodroid_mode_on">OsMoDroid stoppen</string>
     <string name="osmodroid_mode_off">OsMoDroid starten</string>
     <string name="driving_region_descr">Selecteer land of regio: VS, Europa, GB, Azië en andere</string>
 	<string name="driving_region">Land</string>
@@ -1583,7 +1583,7 @@ Afghanistan, Albanie, Algerije, Andorra, Angola, Anguilla, Antigua en Barbuda, A
 	</string>
     <string name="base_world_map">Basiswereldkaart</string>
     <string name="map_magnifier">Kaartvergrootglas</string>
-    <string name="route_is_too_long">"De afstand tot de bestemming is meer dan 200 km. De routeberekening kan hierdoor erg lang duren (of zelfs  mislukken). Door tussenliggende routepunten toe te voegen, wordt de routeberekening sneller."</string>
+    <string name="route_is_too_long">"De afstand tot de bestemming is meer dan 200 km. De routeberekening kan hierdoor erg lang duren (of zelfs mislukken). Door tussenliggende routepunten toe te voegen, wordt de routeberekening sneller."</string>
     <string name="auto_zoom_none">Geen automatische zoom</string>
     <string name="auto_zoom_close">Zoom naar close-up</string>
     <string name="auto_zoom_far">Zoom naar gemiddelde afstand</string>
@@ -1733,7 +1733,7 @@ Afghanistan, Albanie, Algerije, Andorra, Angola, Anguilla, Antigua en Barbuda, A
 	<string name="arrival_distance">Aankondigen van de bestemming</string>
     <string name="arrival_distance_descr">Wanneer melden dat de bestemming bereikt is?</string>
     <string name="osmo_io_error">OsMo verbindingsprobleem: </string>
-    <string name="osmo_mode_on">Stop OsMo sessie</string>    
+    <string name="osmo_mode_on">Stop OsMo sessie</string>
     <string name="osmo_mode_off">Start OsMo</string>
     
     <string name="share_fav">Delen</string>
@@ -1833,8 +1833,8 @@ Afghanistan, Albanie, Algerije, Andorra, Angola, Anguilla, Antigua en Barbuda, A
     <string name="gpx_file_is_empty">GPX-track is leeg</string>
     <string name="gpx_info_subtracks">"Deel tracks: %1$s "</string>
 	<string name="gpx_info_distance">Afstand: %1$s (%2$s punten) </string>
-	<string name="gpx_info_start_time">Starttijd: %1$tF,  %1$tT </string>
-	<string name="gpx_info_end_time">Eindtijd: %1$tF,  %1$tT </string>
+	<string name="gpx_info_start_time">Starttijd: %1$tF, %1$tT </string>
+	<string name="gpx_info_end_time">Eindtijd: %1$tF, %1$tT </string>
 	<string name="gpx_info_average_speed">Gemiddelde snelheid: %1$s </string>
 	<string name="gpx_info_maximum_speed">Maximum snelheid: %1$s </string>
 	<string name="gpx_info_avg_altitude">Gemiddelde hoogte: %1$s</string>
