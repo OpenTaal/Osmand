@@ -360,7 +360,7 @@
 		\n\t* Blauw: er is een update beschikbaar
 		\n\t* Schuingedrukt: gegevens zijn gedeactiveerd
 	</string>
-  <string name="level_to_switch_vector_raster_descr">Minimum zoomniveau om vectorkaarten inplaats van (raster)kaartsegmenten te gebruiken</string>
+  <string name="level_to_switch_vector_raster_descr">Minimum zoomniveau om vectorkaarten in plaats van (raster)kaartsegmenten te gebruiken</string>
   <string name="level_to_switch_vector_raster">Min. vector zoomniveau</string>
   <string name="tip_location_sharing">Locatie delen</string>
   <string name="tip_location_sharing_t">Wil je een interessant punt op je reis delen met familie of vrienden? Gebruik dan op de kaart het contextmenu \'Deel locatie\'.
@@ -384,7 +384,7 @@
   <string name="tip_app_mode">Gebruiksprofiel</string>
   
   <string name="tip_navigation">Navigatie</string>
-  <string name="tip_navigation_t">Je start navigatie door een bestemming te kiezen. Dat kan door lang op de kaart te drukken en op de omschrijving te tikken en \'Als bestemming instellen\' te kiezen. Je kan de navigatie ook starten door op het verkeerdsbord-icoontje te tikken bij een zoekopdracht of door te kiezen voor \'Aanwijzingen\' in de favorietenlijst. De bestemming wordt aangegeven met een oranje vlaggetje op de kaart en de afstand en richting er naar toe worden getoond (oranje driehoekje).
+  <string name="tip_navigation_t">Je start navigatie door een bestemming te kiezen. Dat kan door lang op de kaart te drukken en op de omschrijving te tikken en \'Als bestemming instellen\' te kiezen. Je kan de navigatie ook starten door op het verkeerdsbordicoontje te tikken bij een zoekopdracht of door te kiezen voor \'Aanwijzingen\' in de favorietenlijst. De bestemming wordt aangegeven met een oranje vlaggetje op de kaart en de afstand en richting er naar toe worden getoond (oranje driehoekje).
 		\n\nJe kan een ander startpunt kiezen door het punt te selecteren op de kaart en \'Aanwijzingen vanaf\' te kiezen. Met navigatie wordt de route dan automatisch opnieuw berekend zodra je echte positie bekend is. Zo kan je snel starten op een plaats zonder GPS-ontvangst. Als je \'Toon route\' kiest wordt de route niet herberekend.
 	</string>
   <string name="tip_search">Zoeken</string>
@@ -399,11 +399,11 @@ Kies daarna om er heen te navigeren, op de kaart te tonen, aan een route of de f
 	</string>
   <string name="tip_map_context_menu">Menu \'Gebruik locatie\'</string>
   <string name="tip_map_context_menu_t">\tHet contextmenu op de kaart biedt alle acties die te maken hebben met een punt op de kaart.
-		\n\nHet wordt getoond als je (lang) op een punt op de kaart drukt en dan op de markering tikt, of door op de trackball-knop te drukken, of via \'Menu\' → \'Gebruik locatie\'.
+		\n\nHet wordt getoond als je (lang) op een punt op de kaart drukt en dan op de markering tikt, of door op de trackballknop te drukken, of via \'Menu\' → \'Gebruik locatie\'.
 		\n\tDe laatste twee manieren gebruiken het midden van de kaart als locatie.
 		\n\tEen markering kan worden gesloten door er lang op te drukken.
 	</string>
-  <string name="tip_initial">Tips and Trucs</string>
+  <string name="tip_initial">Tips en Trucs</string>
   <string name="tip_initial_t">OsmAnd is een navigatieprogramma met vele mogelijkheden.
 		\n\nIn het kaartscherm zijn diverse tips te vinden onder \'Menu\' → \'Tips\'.
 	</string>
@@ -420,7 +420,7 @@ Kies daarna om er heen te navigeren, op de kaart te tonen, aan een route of de f
   <string name="mile">mi</string>
   <string name="send_location_way_choose_title">Locatie doorgeven met</string>
   <string name="send_location_sms_pattern">Locatie: %1$s\n%2$s</string>
-  <string name="send_location_email_pattern">Om de locatie te zien: volg de weblink %1$s of android intent link %2$s</string>
+  <string name="send_location_email_pattern">Om de locatie te zien: volg de weblink %1$s of Android intent link %2$s</string>
   <string name="send_location">Zend locatie</string>
   <string name="context_menu_item_share_location">Deel locatie</string>
   <string name="add_waypoint_dialog_added">GPX-routepunt \'\'{0}\'\' succesvol toegevoegd</string>
@@ -462,7 +462,7 @@ Kies daarna om er heen te navigeren, op de kaart te tonen, aan een route of de f
   <string name="poi_filter_food_shop">Eten en drinken (winkel)</string>
   <string name="poi_filter_for_tourists">Voor toeristen</string>
   <string name="poi_filter_fuel">Brandstof</string>
-  <string name="poi_filter_namefinder">Online Namenzoeker</string>
+  <string name="poi_filter_namefinder">Online namenzoeker</string>
   <string name="reading_cached_tiles">Kaartsegmenten worden gelezen…</string>
   <string name="version_index_is_big_for_memory">De index \'\'{0}\'\' past niet in het geheugen</string>
   <string name="version_index_is_not_supported">De versie van index \'\'{0}\'\' wordt niet ondersteund</string>
@@ -472,22 +472,22 @@ Kies daarna om er heen te navigeren, op de kaart te tonen, aan een route of de f
   <string name="specified_dir_doesnt_exist">Kan de opgegeven map niet vinden.</string>
   <string name="application_dir">Opslagmap</string>
   
-  <string name="osmand_net_previously_installed">Een oudere OsmAnd versie is al geïnstalleerd. Alle offline gegevens blijven werken in het nieuwe programma, maar Favorieten moeten worden geëxporteerd in de oude versie en dan worden geïmporteerd met de nieuwe.</string>
+  <string name="osmand_net_previously_installed">Een oudere versie van OsmAnd is al geïnstalleerd. Alle offline gegevens blijven werken in het nieuwe programma, maar Favorieten moeten worden geëxporteerd in de oude versie en dan worden geïmporteerd met de nieuwe.</string>
   <string name="build_installed">Versie {0} succesvol geïnstalleerd ({1}).</string>
   <string name="downloading_build">Downloaden versie…</string>
   <string name="install_selected_build">Doorgaan met de installatie van OsmAnd - {0} van {1} {2} MB ?</string>
   <string name="loading_builds_failed">Het ophalen van de lijst met de versies van OsmAnd is mislukt</string>
   <string name="loading_builds">OsmAnd-versies worden geladen…</string>
-  <string name="select_build_to_install">Kies een OsmAnd-versie om te installeren</string>
+  <string name="select_build_to_install">Kies een versie van OsmAnd om te installeren</string>
   <string name="contribution_activity">Installeer versie</string>
   <string name="gps_status_app_not_found">GPS Status is niet geïnstalleerd. Zoeken in Play Store?</string>
-  <string name="voice_is_not_available_msg">Stem-begeleiding is niet aanwezig. Ga naar instellingen, kies een pakket stem-gegevens, en download deze.</string>
-  <string name="voice_is_not_available_title">Geen stem-begeleiding geselecteerd</string>
+  <string name="voice_is_not_available_msg">Stembegeleiding is niet aanwezig. Ga naar instellingen, kies een pakket stemgegevens, en download deze.</string>
+  <string name="voice_is_not_available_title">Geen stembegeleiding geselecteerd</string>
   <string name="daynight_mode_day">Dag</string>
   <string name="daynight_mode_night">Nacht</string>
   <string name="daynight_mode_auto">Zonsopgang/-ondergang</string>
   <string name="daynight_mode_sensor">Lichtsensor</string>
-  <string name="daynight_descr">Kies dag/nacht-modus omschakelregel</string>
+  <string name="daynight_descr">Kies dag-/nachtmodus omschakelregel</string>
   <string name="daynight">Dag/nacht modus</string>
   <string name="download_files_question">Download {0} bestand(en) ({1} MB)?</string>
   <string name="items_were_selected">{0} item(s) geselecteerd</string>
@@ -541,7 +541,7 @@ Kies daarna om er heen te navigeren, op de kaart te tonen, aan een route of de f
   <string name="rotate_map_none_opt">Niet roteren (noorden boven)</string>
   <string name="rotate_map_to_bearing_descr">Kies hoe de kaart roteert</string>
   <string name="rotate_map_to_bearing">Kaartrotatie</string>
-  <string name="show_route">Route-details</string>
+  <string name="show_route">Routedetails</string>
   <string name="fav_imported_sucessfully">Favorieten succesvol geïmporteerd</string>
   <string name="fav_file_to_load_not_found">GPX-bestand met favorieten niet gevonden op {0}</string>
   <string name="fav_saved_sucessfully">Favorieten succesvol opgeslagen in {0}</string>
@@ -569,7 +569,7 @@ Kies daarna om er heen te navigeren, op de kaart te tonen, aan een route of de f
   <string name="use_trackball">Gebruik trackball</string>
   <string name="background_service_wait_int_descr">Maximum wachttijd voor elke achtergrond positiebepaling</string>
   <string name="background_service_wait_int">Maximum wachttijd voor positiebepaling</string>
-  <string name="service_stop_background_service">Stop achtergrond-navigatie</string>
+  <string name="service_stop_background_service">Stop achtergrondnavigatie</string>
   <string name="where_am_i">Waar ben ik?</string>
   <string name="process_navigation_service">OsmAnd navigatieservice</string>
   <string name="network_provider">Netwerk</string>
@@ -577,9 +577,9 @@ Kies daarna om er heen te navigeren, op de kaart te tonen, aan een route of de f
   <string name="int_seconds">seconden</string>
   <string name="int_min">min.</string>
   <string name="background_service_int_descr">Stel interval in voor plaatsbepaling door achtergrondservice</string>
-  <string name="background_service_int">Plaatsbepaling-interval</string>
-  <string name="background_service_provider_descr">Kies achtergrondservice-provider</string>
-  <string name="background_service_provider">Achtergrondservice-provider</string>
+  <string name="background_service_int">Plaatsbepalinginterval</string>
+  <string name="background_service_provider_descr">Kies achtergrondserviceprovider</string>
+  <string name="background_service_provider">Achtergrondserviceprovider</string>
   <string name="background_router_service_descr">Gebruikt een achtergrondservice voor plaatsbepaling als het scherm uit is</string>
   <string name="background_router_service">Gebruik achtergrondservice</string>
   <string name="off_router_service_no_gps_available">De achtergrondservice vereist een locatiebron om aangezet te kunnen worden.</string>
@@ -612,11 +612,11 @@ Kies daarna om er heen te navigeren, op de kaart te tonen, aan een route of de f
   <string name="search_poi_location">Naar signaal zoeken…</string>
   <string name="search_near_map">Zoek dichtbij de laatste kaartlocatie</string>
   <string name="search_nearby">Zoek dichtbij</string>
-  <string name="map_orientation_default">Zelfde als apparaat-instelling</string>
+  <string name="map_orientation_default">Zelfde als apparaatinstelling</string>
   <string name="map_orientation_portrait">Portret</string>
   <string name="map_orientation_landscape">Landschap</string>
-  <string name="map_screen_orientation">Kaartscherm-oriëntatie</string>
-  <string name="map_screen_orientation_descr">Scherm-oriëntatie: staand, liggend of apparaatinstelling</string>
+  <string name="map_screen_orientation">Kaartschermoriëntatie</string>
+  <string name="map_screen_orientation_descr">Schermoriëntatie: staand, liggend of apparaatinstelling</string>
   <string name="opening_hours_not_supported">Openingstijden kunnen niet gewijzigd worden</string>
   <string name="add_new_rule">Voeg nieuwe regel toe</string>
   <string name="transport_Routes">Routes</string>
@@ -635,7 +635,7 @@ Kies daarna om er heen te navigeren, op de kaart te tonen, aan een route of de f
   <string name="show_transport_over_map_description">Toon haltes openbaar vervoer op kaart</string>
   <string name="show_transport_over_map">Toon haltes openbaar vervoer</string>
   <string name="hello">Navigatieprogamma OsmAnd</string>
-  <string name="update_poi_success">Interessepunt-gegevens succesvol vernieuwd ({0} geladen)</string>
+  <string name="update_poi_success">Interessepuntgegevens succesvol vernieuwd ({0} geladen)</string>
   <string name="update_poi_error_local">Fout bij het vernieuwen van de interessepunten</string>
   <string name="update_poi_error_loading">Fout bij het laden van gegevens van server</string>
   <string name="update_poi_no_offline_poi_index">Geen offline interessepunten beschikbaar voor dit gebied</string>
@@ -742,7 +742,7 @@ Kies daarna om er heen te navigeren, op de kaart te tonen, aan een route of de f
   <string name="add_to_favourite">Toevoegen aan Favorieten</string>
   <string name="use_english_names_descr">Gebruik plaatselijke of Engelse namen</string>
   <string name="use_english_names">Gebruik Engelse namen</string>
-  <string name="app_settings">Programma-instellingen</string>
+  <string name="app_settings">Programmainstellingen</string>
   <string name="search_address">Zoek adres</string>
   <string name="choose_building">Kies gebouw</string>
   <string name="choose_street">Kies straat</string>
@@ -870,7 +870,7 @@ Kies daarna om er heen te navigeren, op de kaart te tonen, aan een route of de f
   <string name="basemap_was_selected_to_download">De basiskaart is nodig voor OsmAnd en is al geselecteerd om te downloaden.</string>
   
   <string name="map_online_plugin_is_not_installed">Activeer de online kaartenplugin om andere kaartbronnen te kunnen selecteren</string>
-  <string name="map_online_data">Online (raster-) kaarten</string>
+  <string name="map_online_data">Online (raster-)kaarten</string>
   <string name="map_online_data_descr">Gebruik online kaarten (download en bewaar deze op SD-kaart)</string>
   <string name="online_map_settings">Online kaarten</string>
   <string name="online_map_settings_descr">Configureer online of bewaarde kaartbronnen</string>
@@ -883,13 +883,13 @@ Kies daarna om er heen te navigeren, op de kaart te tonen, aan een route of de f
   <string name="osmand_monitoring_description">Toon instellingen om reizen in GPX-bestanden vast te leggen, of live, via een webservice, online te bewaren.</string>
   <string name="osmand_extra_settings_description">Toon geavanceerde kaartinstellingen (zoals meer details tonen) en enkele apparaatspecifieke instellingen.</string>
   <string name="osmand_development_plugin_description">Toon opties voor ontwikkeling en foutopsporing, zoals navigatie met simulatie of het meten van de kaartweergavesnelheid.</string>
-  <string name="plugins_screen">Plugin-manager</string>
+  <string name="plugins_screen">Pluginmanager</string>
   <string name="select_plugin_to_activate">Klik op een plugin om deze te (de)activeren. (Het kan nodig zijn om OsmAnd te herstarten.)</string>
   <string name="prefs_plugins_descr">Plugins geven geavanceerde instellingen en extra functies</string>
-  <string name="prefs_plugins">Plugin-manager</string>
+  <string name="prefs_plugins">Pluginmanager</string>
   <string name="tip_recent_changes_0_8_0_t">Wijzigingen in 0.8.0:
 	\n\t- *Plugin-functionaliteit*
-	\n\t- De meeste functionaliteit is gegroepeerd op features en kan worden geactiveerd/gedeactiveerd in de Plugin-manager. Dit omvat rasterkaarten (online of opgeslagen), tracking-instellingen en vele andere nieuwe en al eerder bestaande features)
+	\n\t- De meeste functionaliteit is gegroepeerd op features en kan worden geactiveerd/gedeactiveerd in de Pluginmanager. Dit omvat rasterkaarten (online of opgeslagen), tracking-instellingen en vele andere nieuwe en al eerder bestaande features)
 	\n\t- *Nieuw offline kaartformaat*
 	\n\t- kaartweergave sneller en nauwkeuriger (problemen met kustlijnen en doorlopende vlakken opgelost)
 	\n\t- Alle offline gegevens moeten worden vernieuwd (de oude gegevens werken niet meer)
@@ -966,7 +966,7 @@ Kies daarna om er heen te navigeren, op de kaart te tonen, aan een route of de f
   <string name="update_downlod_list">Vernieuw lijst</string>
   <string name="global_app_allocated_memory_descr">Beschikbaar werkgeheugen %1$s MB (Android limiet %2$s MB, Dalvik %3$s MB).</string>
   <string name="global_app_allocated_memory">Beschikbaar werkgeheugen</string>
-  <string name="native_app_allocated_memory_descr">Werkgeheugen, gereserveerd door app %1$s MB (Dalvik %2$s MB, overig %3$s MB). Proportioneel werkgeheugen %4$s MB (Android limiet %5$s MB, Dalvik %6$s MB).</string>
+  <string name="native_app_allocated_memory_descr">Werkgeheugen, gereserveerd door app %1$s MB (Dalvik %2$s MB, overig %3$s MB). Proportioneel werkgeheugen %4$s MB (Androidlimiet %5$s MB, Dalvik %6$s MB).</string>
   <string name="native_app_allocated_memory">Totaal werkgeheugen</string>
   <string name="select_animate_speedup">Kies versnelling van de route-simulatie</string>
   <string name="osmand_parking_hours">Uur</string>
@@ -1263,11 +1263,11 @@ Kies daarna om er heen te navigeren, op de kaart te tonen, aan een route of de f
 \nWijzigingen in 1.2:
 	\n\t* Bugs verholpen (verbeteringen in routeberekening, zoeken, AV-opnames, stemaanwijzingen en weergave)
 	\n\t* Eenvoudiger weergeven van reliëf (hoogtelijnenplugin nodig)
-	\n\t* Accepteert maps.google.com lokatie-links
+	\n\t* Accepteert maps.google.com lokatielinks
 	\n\t* Nieuwe widget (GPS-info)
-	\n\t* Ondersteuning van meerdere vensters voor recente Samsung-toestellen
+	\n\t* Ondersteuning van meerdere vensters voor recente Samsungtoestellen
 	\n\t* Kalman-filter voor het kompas
-	\n\t* Ondersteuning voor Pebble-horloge
+	\n\t* Ondersteuning voor Pebblehorloge
 	</string>
     <string name="max_speed_none">geen</string>
     <string name="prefer_motorways">Bij voorkeur snelwegen</string>
@@ -1339,14 +1339,14 @@ Indicatie van kaartkwaliteit en -compleetheid:
 - Rusland: ***
 - Noord-Amerika: ***
 - Zuid-Amerika: **
-- Azie: **
+- Azië: **
 - Japan &amp; Korea: ***
 - Midden-Oosten: **
 - Afrika: **
 - Antarctica: *
 
 Lijst van ondersteunde landen (praktisch de hele wereld!):
-Afghanistan, Albanie, Algerije, Andorra, Angola, Anguilla, Antigua en Barbuda, Argentinie, Armenie, Aruba, Australie, Azerbaijan, Bahamas, Bahrein, Bangladesh, Barbados, Belarus, Belgie, Belize, Benin, Bermuda, Bhutan, Bolivia, Bonaire, Bosnie en Herzegovina, Botswana, Brazilie, Britse Maagdeneilanden, Brunei, Bulgarije, Burkina Faso, Burundi, Cambodia, Canada, Central African Republic, Chile, China, Colombia, Comoros, Congo, Costa Rica, Ivoorkust, Cuba, Curaçao, Cyprus,  Denmark, Djibouti, Dominica, Dominican Republic, Duitsland, Ecuador, Egypte, El Salvador, Equatoriaal Guinea, Eritrea, Estland, Ethiopie, Fiji, Finland, Frankrijk, Frans Guiana, Frans Polynesia, Gabon, Gambia, Georgia, Ghana, Gibraltar, Grenada, Griekenland, Groenland, Guadeloupe, Guam, Guatemala, Guernsey, Guinea, Guinee-Bissau, Guyana, Haiti, Vaticaanstad, Honduras, Hong Kong, Hongarije, Ierland, IJsland, India, Indonesie, Iran, Irak,  Isle of Man, Israel, Italie, Jamaica, Japan, Jemen, Jersey, Jordanie, Kaapverdie, Kameroen, Kazakhstan, Kenya, Kiribati, Koeweit, Kroatie, Noord-Korea en Zuid-Korea, Kyrgyzstan, Laos, Lebanon, Lesotho, Letland, Liberia, Libie, Liechtenstein, Litouwen, Luxemburg, Macao, Macedonie, Madagascar, Malawi, Maleisie, Malediven, Mali, Malta, Marokko, Martinique, Mauritanie, Mauritius, Mayotte, Mexico, Micronesie, Moldavie, Monaco, Mongolie, Montenegro, Montserrat, Mozambique, Myanmar, Namibia, Nauru,  Nederland, Nederlandse Antillen, Nepal, Nicaragua, Nieuw-Caledoniae, Nieuw-Zeeland, Niger, Nigeria, Noorwegen, Oeganda, Oman, Oostenrijk, Pakistan, Palau, Palestinian Territory, Panama, Papua New Guinea, Paraguay, Peru, Philippijnen, Polen, Portugal, Puerto Rico, Qatar, Romenie, Rusland, Rwanda, Saint Barthelemy, Saint Helena, Saint Kitts and Nevis, Saint Lucia, Saint Martin, Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Samoa, San Marino, Saudi-Arabie, Senegal, Servie, Seychellen, Sierra Leone, Singapore, Slovakije, Slovenie, Somalie, Spanje, Sri Lanka, Soedan, Suriname, Swaziland, Syrie, Taiwan, Tajikistan, Tanzania, Thailand, Timor-Leste, Tjechie, Togo, Tokelau, Tonga, Trinidad and Tobago, Tsjaad, Tunesie, Turkije, Turkmenistan, Tuvalu, Ukraine, United Arab Emirates, United Kingdom (UK), United States of America (USA), Uruguay, Uzbekistan, Vanuatu, Venezuela, Vietnam, Wallis and Futuna, Western Sahara, Zambia, Zimbabwe, Zuid-Afrika, Zuid-Georgia, Zuid-Soedan, Zweden, Zwitserland.
+Afghanistan, Albanië, Algerije, Andorra, Angola, Anguilla, Antigua en Barbuda, Argentinië, Armenië, Aruba, Australië, Azerbaijan, Bahamas, Bahrein, Bangladesh, Barbados, Belarus, België, Belize, Benin, Bermuda, Bhutan, Bolivia, Bonaire, Bosnië en Herzegovina, Botswana, Brazilië, Britse Maagdeneilanden, Brunei, Bulgarije, Burkina Faso, Burundi, Cambodja, Canada, Central African Republic, Chile, China, Colombia, Comoros, Congo, Costa Rica, Ivoorkust, Cuba, Curaçao, Cyprus, Denmark, Djibouti, Dominica, Dominican Republic, Duitsland, Ecuador, Egypte, El Salvador, Equatoriaal Guinea, Eritrea, Estland, Ethiopië, Fiji, Finland, Frankrijk, Frans Guiana, Frans Polynesië, Gabon, Gambia, Georgia, Ghana, Gibraltar, Grenada, Griekenland, Groenland, Guadeloupe, Guam, Guatemala, Guernsey, Guinea, Guinee-Bissau, Guyana, Haiti, Vaticaanstad, Honduras, Hong Kong, Hongarije, Ierland, IJsland, India, Indonesië, Iran, Irak,  Isle of Man, Israel, Italie, Jamaica, Japan, Jemen, Jersey, Jordanië, Kaapverdië, Kameroen, Kazakhstan, Kenya, Kiribati, Koeweit, Kroatie, Noord-Korea en Zuid-Korea, Kyrgyzstan, Laos, Libanon, Lesotho, Letland, Liberia, Libië, Liechtenstein, Litouwen, Luxemburg, Macao, Macedonie, Madagascar, Malawi, Maleisië, Malediven, Mali, Malta, Marokko, Martinique, Mauritanië, Mauritius, Mayotte, Mexico, Micronesië, Moldavië, Monaco, Mongolië, Montenegro, Montserrat, Mozambique, Myanmar, Namibië, Nauru,  Nederland, Nederlandse Antillen, Nepal, Nicaragua, Nieuw-Caledoniae, Nieuw-Zeeland, Niger, Nigeria, Noorwegen, Oeganda, Oman, Oostenrijk, Pakistan, Palau, Palestinian Territory, Panama, Papua New Guinea, Paraguay, Peru, Philippijnen, Polen, Portugal, Puerto Rico, Qatar, Romenie, Rusland, Rwanda, Saint Barthelemy, Saint Helena, Saint Kitts and Nevis, Saint Lucia, Saint Martin, Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Samoa, San Marino, Saudi-Arabië, Senegal, Servie, Seychellen, Sierra Leone, Singapore, Slovakije, Slovenie, Somalië, Spanje, Sri Lanka, Soedan, Suriname, Swaziland, Syrie, Taiwan, Tajikistan, Tanzania, Thailand, Timor-Leste, Tsjechië, Togo, Tokelau, Tonga, Trinidad and Tobago, Tsjaad, Tunesië, Turkije, Turkmenistan, Tuvalu, Ukraine, United Arab Emirates, United Kingdom (UK), United States of America (USA), Uruguay, Uzbekistan, Vanuatu, Venezuela, Vietnam, Wallis en Futuna, Western Sahara, Zambia, Zimbabwe, Zuid-Afrika, Zuid-Georgia, Zuid-Soedan, Zweden, Zwitserland.
 	</string>
 	<string name="osmand_plus_play_title_30_chars">OsmAnd+ Kaarten &amp; Navigatie</string>
 	<string name="osmand_plus_extended_description_4000_chars">
@@ -1409,7 +1409,7 @@ Indicatie van kaartkwaliteit en -compleetheid:
 - Rusland: ***
 - Noord-Amerika: ***
 - Zuid-Amerika: **
-- Azie: **
+- Azië: **
 - Japan &amp; Korea: ***
 - Midden-Oosten: **
 - Afrika: **
@@ -1442,7 +1442,7 @@ Afghanistan, Albanie, Algerije, Andorra, Angola, Anguilla, Antigua en Barbuda, A
     <string name="favourites_list_activity">Kies favoriet</string>
     <string name="local_openstreetmap_act_title">OSM-wijzigingen</string>
     <string name="default_buttons_other_actions">Andere acties</string>
-    <string name="download_using_mobile_internet">Er is geen WiFi-verbinding. Wil je doorgaan met downloaden via huidige internetverbinding?</string>
+    <string name="download_using_mobile_internet">Er is geen wifiverbinding. Wil je doorgaan met downloaden via huidige internetverbinding?</string>
     <string name="other_location">Andere</string>
     <string name="files_limit">%1$d bestanden over</string>
     <string name="available_downloads_left">%1$d bestanden beschikbaar voor downloaden</string>
@@ -1468,7 +1468,7 @@ Afghanistan, Albanie, Algerije, Andorra, Angola, Anguilla, Antigua en Barbuda, A
     <string name="gpx_saved_sucessfully">GPX-bestand succesvol opgeslagen als {0}</string>
     <string name="osmand_distance_planning_plugin_description">Creëer een pad (of open een bestaand GPX-bestand om te gebruiken / bewerken) om de afstand tussen punten te meten. Opslaan als GPX, kan worden gebruikt om een GPX-route te plannen.</string>
     <string name="osmand_distance_planning_plugin_name">Afstandscalculator &amp; Planningshulp</string>
-    <string name="use_distance_measurement_help">* Klik om een punt te markeren.\n * Klik lang op de kaart om het vorige punt te verwijderen.\n * Klik lang op een punt om de beschrijving te zien en toe te voegen.\n * Klik op de meet-widget om meer acties te zien.</string>
+    <string name="use_distance_measurement_help">* Klik om een punt te markeren.\n * Klik lang op de kaart om het vorige punt te verwijderen.\n * Klik lang op een punt om de beschrijving te zien en toe te voegen.\n * Klik op de meetwidget om meer acties te zien.</string>
     <string name="default_buttons_do_not_show_again">Niet meer tonen</string>
     <string name="distance_measurement_start_editing">Begin met bewerken</string>
     <string name="distance_measurement_finish_editing">Bewerken beëindigen</string>
